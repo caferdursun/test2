@@ -1,0 +1,58 @@
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\
+python -u "/Users/cdursun/Documents/sourceCodes/python/gitLabProject/gitTest.py"
+python -u "/Users/cdursun/Documents/sourceCodes/python/gitLabProject/gitTest.py"
+git --version
+git --help
+brew install git
+git --help
+git --version
+git --version
+which git
+git --version
+brew upgrade git
+git --version
+which git
+cd sourceCodes/python/gitLabProject
+touch gitTest.py
+git init
+cd .git
+git add gitTest.py
+git status
+git commit -m "Ä°lk test commit'i"
+git status
+git remote add origin "https://github.com/caferdursun/test-repo.git"
+git pull origin master
+git pull origin
+git status
+git pull origin master
+git push origin master
+git push origin master
+git status
+git commit
+git status
+git commit -m "boÅƒ¿"
+git push origin master
+git status
+git add gitTest.py
+git status
+git commit -m "boÅƒ¿"
+git push origin master
+cd gitLabProject
+nano gitTest.py
+where git
+which git
+/usr/local/bin/git --version
+nano git
+git --version
+/usr/local/bin/git --version
+where git
+ln -s /usr/local/bin/git
+mv git git.bck
+sudo mv git git.bck
+git
+git --version
+sudo rm -rf /usr/bin/git/
+sudo rm /etc/paths.d/git
+sudo rm /etc/manpaths.d/git
+alias git='/usr/local/bin/git'\
+git --version
